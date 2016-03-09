@@ -38,15 +38,25 @@ Notre site sera dans les tons des couleurs suivantes : bleu ciel et blanc.
 3.2 Description fonctionnelle : 
 
 -Acheter et commander les cartes.
+
 -Possibilité d'avoir des réductions en achetant les cartes par lots.
+
 -Notre site comporte un newsletter pour tenir informé les utilisateurs de l’actualité de l'entreprise et des offres qu'elle proposera selon les périodes de l'année.
+
 -Possibilité que le site qui change selon événement ( Noel / ST valentin ect ...).
+
 -Création de logo ( principal ).
+
 -Création des différents logo événements.
+
 -Statistique du site ( nombre de visiteur, Pannier moyen, article le plus vue).
+
 -Code promo (avec la valeur en euros ou % pannier ou article ) .
+
 -Facture faite sur le site directement envoyé.
+
 -Stock pris en charge avec inventaire.
+
 -Tuto pour prendre en main le site.
 
 
